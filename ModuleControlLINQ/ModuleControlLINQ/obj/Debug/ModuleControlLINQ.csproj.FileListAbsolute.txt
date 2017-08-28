@@ -1,0 +1,6 @@
+C:\Users\Student\Source\Repos\Orlichenko\ModuleControlLINQ\ModuleControlLINQ\bin\Debug\ModuleControlLINQ.exe.config
+C:\Users\Student\Source\Repos\Orlichenko\ModuleControlLINQ\ModuleControlLINQ\bin\Debug\ModuleControlLINQ.exe
+C:\Users\Student\Source\Repos\Orlichenko\ModuleControlLINQ\ModuleControlLINQ\bin\Debug\ModuleControlLINQ.pdb
+C:\Users\Student\Source\Repos\Orlichenko\ModuleControlLINQ\ModuleControlLINQ\obj\Debug\ModuleControlLINQ.csprojResolveAssemblyReference.cache
+C:\Users\Student\Source\Repos\Orlichenko\ModuleControlLINQ\ModuleControlLINQ\obj\Debug\ModuleControlLINQ.exe
+C:\Users\Student\Source\Repos\Orlichenko\ModuleControlLINQ\ModuleControlLINQ\obj\Debug\ModuleControlLINQ.pdb
